@@ -1,2 +1,2 @@
-# machinelearning
+# Getting Started
 A Simple Linear Regression 
